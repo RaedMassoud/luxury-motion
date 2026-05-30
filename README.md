@@ -79,12 +79,12 @@ Copy the files from this repo into `plugins/luxury-motion/skills/luxury-motion/`
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "local",
   "description": "Local plugins",
-  "owner": { "name": "Shaghaf", "email": "massoud.r@outlook.com" },
+  "owner": { "name": "", "email": "" },
   "plugins": [
     {
       "name": "luxury-motion",
       "description": "Build premium animations and motion effects in Shopify Liquid themes.",
-      "author": { "name": "Shaghaf", "email": "massoud.r@outlook.com" },
+      "author": { "name": "", "email": "" },
       "category": "design",
       "source": "./plugins/luxury-motion"
     }
