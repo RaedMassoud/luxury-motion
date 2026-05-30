@@ -107,11 +107,3 @@ claude plugin install luxury-motion@local
 ### 5. Reload
 
 Run `/reload-plugins` in Claude Code, or restart the app.
-
-## Theme requirements
-
-This skill is written for the Shaghaf Shopify theme but works for any Shopify Liquid theme that has GSAP 3 + ScrollTrigger + Lenis loaded globally.
-
-## License
-
-MIT
